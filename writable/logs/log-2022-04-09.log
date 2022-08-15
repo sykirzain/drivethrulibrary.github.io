@@ -1,9 +1,0 @@
-CRITICAL - 2022-04-09 04:48:40 --> Unable to load template 'file:Home/hai.tpl'
-#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
-#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
-#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Home/hai.tpl', NULL, NULL, NULL)
-#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Home/hai.tpl')
-#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
-#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
-#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
-#7 {main}

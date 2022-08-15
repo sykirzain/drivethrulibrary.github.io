@@ -1,9 +1,0 @@
-CRITICAL - 2022-05-09 00:06:07 --> Unable to load template 'file:Student/my_profile.tpl'
-#0 C:\xampp\htdocs\diet_recommender\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
-#1 C:\xampp\htdocs\diet_recommender\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
-#2 C:\xampp\htdocs\diet_recommender\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Student/my_prof...', NULL, NULL, NULL)
-#3 C:\xampp\htdocs\diet_recommender\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Student/my_prof...')
-#4 C:\xampp\htdocs\diet_recommender\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
-#5 C:\xampp\htdocs\diet_recommender\public\index.php(37): CodeIgniter\CodeIgniter->run()
-#6 C:\xampp\htdocs\diet_recommender\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
-#7 {main}
