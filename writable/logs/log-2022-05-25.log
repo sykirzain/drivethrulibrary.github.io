@@ -1,0 +1,687 @@
+CRITICAL - 2022-05-25 14:27:58 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:27:58 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:27:58 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:27:58 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:27:58 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:27:59 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:27:59 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:27:59 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:27:59 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:27:59 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:28:16 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:28:16 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:28:16 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:28:16 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:28:17 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:28:17 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:28:17 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:28:17 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:28:17 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:28:17 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:47 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:47 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:47 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:47 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:47 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:47 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:47 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:47 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:47 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:48 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:48 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:48 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:49 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:49 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:49 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:49 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:49 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:49 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:49 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:53 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:53 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:53 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:29:54 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:32:47 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:32:47 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:32:47 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:32:47 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:32:47 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:32:47 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:32:48 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:32:48 --> Unable to load template 'file:Auth/drive-thru-library.png.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/drive-thru...', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/drive-thru...')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:32:48 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:32:48 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:32:50 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:32:50 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:32:50 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:32:50 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:32:50 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:32:50 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:32:50 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:32:51 --> Unable to load template 'file:Auth/drive-thru-library.png.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/drive-thru...', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/drive-thru...')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:32:51 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:32:51 --> Unable to load template 'file:Auth/assets.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/assets.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/assets.tpl')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:33:29 --> Unable to load template 'file:Auth/drive-thru-library.png.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/drive-thru...', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/drive-thru...')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:38:02 --> Unable to load template 'file:Auth/login.html.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/login.html...', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/login.html...')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:39:42 --> Unable to load template 'file:Auth/drive-thru-library.png.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Auth/drive-thru...', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Auth/drive-thru...')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:48:59 --> Undefined array key "username"
+#0 C:\xampp\htdocs\library\app\ThirdParty\EzAuth.php(288): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 288)
+#1 C:\xampp\htdocs\library\app\Controllers\Auth.php(14): elmyrockers\EzAuth->register('', true, 'localhost:8080/...')
+#2 C:\xampp\htdocs\library\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#3 C:\xampp\htdocs\library\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:50:34 --> Undefined array key "username"
+#0 C:\xampp\htdocs\library\app\ThirdParty\EzAuth.php(288): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 288)
+#1 C:\xampp\htdocs\library\app\Controllers\Auth.php(14): elmyrockers\EzAuth->register('', true, 'localhost:8080/...')
+#2 C:\xampp\htdocs\library\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#3 C:\xampp\htdocs\library\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:51:05 --> Undefined array key "username"
+#0 C:\xampp\htdocs\library\app\ThirdParty\EzAuth.php(288): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 288)
+#1 C:\xampp\htdocs\library\app\Controllers\Auth.php(14): elmyrockers\EzAuth->register('', true, 'localhost:8080/...')
+#2 C:\xampp\htdocs\library\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#3 C:\xampp\htdocs\library\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:51:12 --> Undefined array key "username"
+#0 C:\xampp\htdocs\library\app\ThirdParty\EzAuth.php(288): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 288)
+#1 C:\xampp\htdocs\library\app\Controllers\Auth.php(14): elmyrockers\EzAuth->register('', true, 'localhost:8080/...')
+#2 C:\xampp\htdocs\library\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#3 C:\xampp\htdocs\library\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:51:40 --> Undefined array key "username"
+#0 C:\xampp\htdocs\library\app\ThirdParty\EzAuth.php(288): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 288)
+#1 C:\xampp\htdocs\library\app\Controllers\Auth.php(14): elmyrockers\EzAuth->register('', true, 'localhost:8080/...')
+#2 C:\xampp\htdocs\library\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#3 C:\xampp\htdocs\library\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:52:32 --> Undefined array key "username"
+#0 C:\xampp\htdocs\library\app\ThirdParty\EzAuth.php(288): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 288)
+#1 C:\xampp\htdocs\library\app\Controllers\Auth.php(14): elmyrockers\EzAuth->register('', true, 'localhost:8080/...')
+#2 C:\xampp\htdocs\library\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#3 C:\xampp\htdocs\library\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-25 14:53:48 --> Invalid address:  (to): 
+#0 C:\xampp\htdocs\library\app\ThirdParty\PHPMailer\src\PHPMailer.php(1014): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', '', '')
+#1 C:\xampp\htdocs\library\app\ThirdParty\EzAuth.php(223): PHPMailer\PHPMailer\PHPMailer->addAddress('', '')
+#2 C:\xampp\htdocs\library\app\ThirdParty\EzAuth.php(274): elmyrockers\EzAuth->_mail(Array, NULL)
+#3 C:\xampp\htdocs\library\app\ThirdParty\EzAuth.php(310): elmyrockers\EzAuth->_sendMail(Array, 'email_verificat...', Array, NULL)
+#4 C:\xampp\htdocs\library\app\Controllers\Auth.php(14): elmyrockers\EzAuth->register('', true, 'localhost:8080/...')
+#5 C:\xampp\htdocs\library\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#6 C:\xampp\htdocs\library\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 C:\xampp\htdocs\library\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-25 15:05:34 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-25 15:08:35 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-25 15:09:53 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

@@ -1,0 +1,291 @@
+CRITICAL - 2022-04-19 05:25:46 --> Unable to load template 'file:Home/index.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Home/index.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Home/index.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 05:25:47 --> Unable to load template 'file:Home/index.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Home/index.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Home/index.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 05:36:58 --> Unable to load template 'file:Auth/register.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/register.t...', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/register.t...')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 05:48:13 --> Unable to load template 'file:Layouts/auth.tpl' in 'Auth/register.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_template.php(385): Smarty_Internal_Template->render()
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_runtime_inheritance.php(116): Smarty_Internal_Template->_subTemplateRender('Layouts/auth.tp...', NULL, NULL, 0, 3600, Array, 2, false, NULL, NULL)
+#2 C:\xampp\htdocs\diet\app\Libraries\Smarty\Compiles\2023a0e60ff43c8a7cd25b8e1abfb2ef95ead3b4_0.file.register.tpl.php(30): Smarty_Internal_Runtime_Inheritance->endChild(Object(Smarty_Internal_Template), 'Layouts/auth.tp...')
+#3 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_template_resource_base.php(123): content_625e936d3aef24_15452688(Object(Smarty_Internal_Template))
+#4 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#7 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#8 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/register.t...', NULL, NULL, NULL)
+#9 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/register.t...')
+#10 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#11 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2022-04-19 16:31:32 --> Unable to load template 'file:Layouts/auth.tpl' in 'Auth/register.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_template.php(385): Smarty_Internal_Template->render()
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_runtime_inheritance.php(116): Smarty_Internal_Template->_subTemplateRender('Layouts/auth.tp...', NULL, NULL, 0, 3600, Array, 2, false, NULL, NULL)
+#2 C:\xampp\htdocs\diet\app\Libraries\Smarty\Compiles\2023a0e60ff43c8a7cd25b8e1abfb2ef95ead3b4_0.file.register.tpl.php(30): Smarty_Internal_Runtime_Inheritance->endChild(Object(Smarty_Internal_Template), 'Layouts/auth.tp...')
+#3 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_template_resource_base.php(123): content_625e936d3aef24_15452688(Object(Smarty_Internal_Template))
+#4 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#7 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#8 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/register.t...', NULL, NULL, NULL)
+#9 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/register.t...')
+#10 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#11 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2022-04-19 16:31:52 --> Unable to load template 'file:Layouts/auth.tpl' in 'Auth/register.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_template.php(385): Smarty_Internal_Template->render()
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_runtime_inheritance.php(116): Smarty_Internal_Template->_subTemplateRender('Layouts/auth.tp...', NULL, NULL, 0, 3600, Array, 2, false, NULL, NULL)
+#2 C:\xampp\htdocs\diet\app\Libraries\Smarty\Compiles\2023a0e60ff43c8a7cd25b8e1abfb2ef95ead3b4_0.file.register.tpl.php(30): Smarty_Internal_Runtime_Inheritance->endChild(Object(Smarty_Internal_Template), 'Layouts/auth.tp...')
+#3 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_template_resource_base.php(123): content_625e936d3aef24_15452688(Object(Smarty_Internal_Template))
+#4 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#7 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#8 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/register.t...', NULL, NULL, NULL)
+#9 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/register.t...')
+#10 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#11 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2022-04-19 16:31:54 --> Unable to load template 'file:Layouts/auth.tpl' in 'Auth/register.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_template.php(385): Smarty_Internal_Template->render()
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_runtime_inheritance.php(116): Smarty_Internal_Template->_subTemplateRender('Layouts/auth.tp...', NULL, NULL, 0, 3600, Array, 2, false, NULL, NULL)
+#2 C:\xampp\htdocs\diet\app\Libraries\Smarty\Compiles\2023a0e60ff43c8a7cd25b8e1abfb2ef95ead3b4_0.file.register.tpl.php(30): Smarty_Internal_Runtime_Inheritance->endChild(Object(Smarty_Internal_Template), 'Layouts/auth.tp...')
+#3 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_template_resource_base.php(123): content_625e936d3aef24_15452688(Object(Smarty_Internal_Template))
+#4 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#7 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#8 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/register.t...', NULL, NULL, NULL)
+#9 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/register.t...')
+#10 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#11 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2022-04-19 16:31:56 --> Unable to load template 'file:Layouts/auth.tpl' in 'Auth/register.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_template.php(385): Smarty_Internal_Template->render()
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_runtime_inheritance.php(116): Smarty_Internal_Template->_subTemplateRender('Layouts/auth.tp...', NULL, NULL, 0, 3600, Array, 2, false, NULL, NULL)
+#2 C:\xampp\htdocs\diet\app\Libraries\Smarty\Compiles\2023a0e60ff43c8a7cd25b8e1abfb2ef95ead3b4_0.file.register.tpl.php(30): Smarty_Internal_Runtime_Inheritance->endChild(Object(Smarty_Internal_Template), 'Layouts/auth.tp...')
+#3 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_template_resource_base.php(123): content_625e936d3aef24_15452688(Object(Smarty_Internal_Template))
+#4 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#7 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#8 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/register.t...', NULL, NULL, NULL)
+#9 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/register.t...')
+#10 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#11 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2022-04-19 16:35:42 --> Unable to load template 'file:Auth/js.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/js.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/js.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 16:35:43 --> Unable to load template 'file:Auth/css.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/css.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/css.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 16:38:38 --> Unable to load template 'file:Auth/css.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/css.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/css.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 16:38:38 --> Unable to load template 'file:Auth/js.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/js.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/js.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 16:40:07 --> Unable to load template 'file:Auth/css.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/css.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/css.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 16:40:07 --> Unable to load template 'file:Auth/js.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/js.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/js.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 16:40:15 --> Unable to load template 'file:Auth/js.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/js.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/js.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 16:40:15 --> Unable to load template 'file:Auth/css.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/css.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/css.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 16:42:43 --> Unable to load template 'file:Auth/css.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/css.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/css.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 16:42:43 --> Unable to load template 'file:Auth/js.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/js.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/js.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 16:49:15 --> Unable to load template 'file:Auth/img.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/img.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/img.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 16:49:24 --> Unable to load template 'file:Auth/img.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/img.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/img.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 16:49:31 --> Unable to load template 'file:Auth/js.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/js.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/js.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 16:49:32 --> Unable to load template 'file:Auth/css.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/css.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/css.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 16:51:17 --> Unable to load template 'file:Auth/css.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/css.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/css.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 16:51:18 --> Unable to load template 'file:Auth/js.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/js.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/js.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 16:51:18 --> Unable to load template 'file:Auth/img.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/img.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/img.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 16:52:19 --> Unable to load template 'file:Auth/css.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/css.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/css.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 16:52:20 --> Unable to load template 'file:Auth/js.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/js.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/js.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 18:29:04 --> Unable to load template 'file:Auth/js.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/js.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/js.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-19 18:29:04 --> Unable to load template 'file:Auth/css.tpl'
+#0 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\diet\app\Libraries\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\diet\app\Libraries\TPL.php(38): Smarty_Internal_TemplateBase->display('Auth/css.tpl', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\diet\app\Controllers\BaseController.php(66): App\Libraries\TPL->display('Auth/css.tpl')
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): App\Controllers\BaseController->__destruct()
+#5 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}

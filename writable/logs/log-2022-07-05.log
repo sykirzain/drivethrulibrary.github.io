@@ -1,0 +1,45 @@
+CRITICAL - 2022-07-05 01:01:43 --> Unable to load template 'file:Student/available_books.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Student/availab...', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Student/availab...')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-07-05 01:02:45 --> Unable to load template 'file:Student/available_books.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Student/availab...', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Student/availab...')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-07-05 01:03:04 --> Unable to load template 'file:Student/available_books.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Student/availab...', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Student/availab...')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-07-05 02:59:37 --> Unable to load template 'file:Student/available_books.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Student/availab...', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Student/availab...')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-07-05 02:59:49 --> Unable to load template 'file:Student/available_books.tpl'
+#0 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#1 C:\xampp\htdocs\library\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#2 C:\xampp\htdocs\library\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Student/availab...', NULL, NULL, NULL)
+#3 C:\xampp\htdocs\library\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Student/availab...')
+#4 C:\xampp\htdocs\library\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#5 C:\xampp\htdocs\library\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\library\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}

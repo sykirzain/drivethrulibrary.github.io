@@ -1,0 +1,207 @@
+CRITICAL - 2022-04-07 01:46:23 --> syntax error, unexpected token "}", expecting ";"
+#0 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\diet\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\diet\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-04-07 06:19:40 --> Class "App\Libraries\NotORM" not found
+#0 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#1 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-07 06:22:20 --> require_once(/NotORM/NotORM.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\diet\app\Libraries\NotORM.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/N...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\diet\app\Libraries\NotORM.php(5): require_once()
+#2 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\N...')
+#5 C:\xampp\htdocs\diet\app\Controllers\Home.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\N...')
+#6 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#7 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-04-07 06:23:19 --> Class "App\Libraries\NotORM" not found
+#0 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#1 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-07 06:34:41 --> Class "NotORM_Abstract" not found
+#0 C:\xampp\htdocs\diet\app\Libraries\NotORM.php(21): include_once()
+#1 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\N...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\N...')
+#5 C:\xampp\htdocs\diet\app\Controllers\Home.php(16): class_exists('App\\Libraries\\N...')
+#6 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#7 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-04-07 06:46:45 --> Class "NotORM_Abstract" not found
+#0 C:\xampp\htdocs\diet\app\Libraries\NotORM.php(21): include_once()
+#1 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\N...')
+#4 C:\xampp\htdocs\diet\app\Controllers\Home.php(20): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\N...')
+#5 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#6 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-04-07 06:47:37 --> Class "NotORM_Abstract" not found
+#0 C:\xampp\htdocs\diet\app\Libraries\NotORM.php(21): include_once()
+#1 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\N...')
+#4 C:\xampp\htdocs\diet\app\Controllers\Home.php(21): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\N...')
+#5 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#6 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-04-07 06:48:28 --> Class "NotORM_Abstract" not found
+#0 C:\xampp\htdocs\diet\app\Libraries\NotORM.php(21): include_once()
+#1 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\N...')
+#4 C:\xampp\htdocs\diet\app\Controllers\Home.php(21): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\N...')
+#5 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#6 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-04-07 06:48:50 --> Class "NotORM_Abstract" not found
+#0 C:\xampp\htdocs\diet\app\Libraries\NotORM.php(21): include_once()
+#1 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\N...')
+#4 C:\xampp\htdocs\diet\app\Controllers\Home.php(21): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\N...')
+#5 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#6 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-04-07 06:48:53 --> Class "NotORM_Abstract" not found
+#0 C:\xampp\htdocs\diet\app\Libraries\NotORM.php(21): include_once()
+#1 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\N...')
+#4 C:\xampp\htdocs\diet\app\Controllers\Home.php(21): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\N...')
+#5 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#6 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-04-07 06:51:20 --> Class "App\Libraries\NotORM\NotORM_Abstract" not found
+#0 C:\xampp\htdocs\diet\app\Libraries\NotORM.php(21): include_once()
+#1 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\N...')
+#4 C:\xampp\htdocs\diet\app\Controllers\Home.php(21): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\N...')
+#5 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#6 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-04-07 06:51:44 --> Interface "App\Libraries\NotORM\Iterator" not found
+#0 C:\xampp\htdocs\diet\app\Libraries\NotORM.php(21): include_once()
+#1 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\diet\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\N...')
+#4 C:\xampp\htdocs\diet\app\Controllers\Home.php(21): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\N...')
+#5 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#6 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-04-07 07:01:17 --> Class "App\Controllers\NotORM2" not found
+#0 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#1 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-07 07:01:21 --> Class "App\Controllers\NotORM2" not found
+#0 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#1 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-07 07:01:24 --> Class "App\Controllers\NotORM2" not found
+#0 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#1 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-07 07:01:37 --> Too few arguments to function NotORM::__construct(), 0 passed in C:\xampp\htdocs\diet\app\Controllers\Home.php on line 20 and at least 1 expected
+#0 C:\xampp\htdocs\diet\app\Controllers\Home.php(20): NotORM->__construct()
+#1 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#2 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-07 07:05:00 --> Class "App\Controllers\PDO" not found
+#0 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#1 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-07 07:05:05 --> Class "App\Controllers\PDO" not found
+#0 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#1 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-07 07:05:33 --> SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+#0 C:\xampp\htdocs\diet\app\Controllers\Home.php(15): PDO->__construct('mysql:dbname=fo...')
+#1 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#2 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-07 07:15:06 --> Class "App\Controllers\CI_NotORM" not found
+#0 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#1 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-07 07:15:23 --> Class "App\Libraries\CI_NotORM" not found
+#0 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#1 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-07 07:30:49 --> Undefined variable $users
+#0 C:\xampp\htdocs\diet\app\Controllers\Home.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 16)
+#1 C:\xampp\htdocs\diet\system\CodeIgniter.php(825): App\Controllers\Home->test()
+#2 C:\xampp\htdocs\diet\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\diet\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\diet\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\diet\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
