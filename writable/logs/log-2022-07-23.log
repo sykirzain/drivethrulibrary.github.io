@@ -1,0 +1,324 @@
+CRITICAL - 2022-07-23 02:32:24 --> Could not instantiate mail function.
+#0 C:\xampp\htdocs\library2\app\ThirdParty\PHPMailer\src\PHPMailer.php(1664): PHPMailer\PHPMailer\PHPMailer->mailSend('Date: Sat, 23 J...', 'This is a multi...')
+#1 C:\xampp\htdocs\library2\app\ThirdParty\PHPMailer\src\PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 C:\xampp\htdocs\library2\app\ThirdParty\EzAuth.php(236): PHPMailer\PHPMailer\PHPMailer->send()
+#3 C:\xampp\htdocs\library2\app\ThirdParty\EzAuth.php(274): elmyrockers\EzAuth->_mail(Array, NULL)
+#4 C:\xampp\htdocs\library2\app\ThirdParty\EzAuth.php(310): elmyrockers\EzAuth->_sendMail(Array, 'email_verificat...', Array, NULL)
+#5 C:\xampp\htdocs\library2\app\Controllers\Auth.php(14): elmyrockers\EzAuth->register('', true, 'localhost:8080/...')
+#6 C:\xampp\htdocs\library2\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#7 C:\xampp\htdocs\library2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\library2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\library2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\library2\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-07-23 02:34:33 --> Could not instantiate mail function.
+#0 C:\xampp\htdocs\library2\app\ThirdParty\PHPMailer\src\PHPMailer.php(1664): PHPMailer\PHPMailer\PHPMailer->mailSend('Date: Sat, 23 J...', 'This is a multi...')
+#1 C:\xampp\htdocs\library2\app\ThirdParty\PHPMailer\src\PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 C:\xampp\htdocs\library2\app\ThirdParty\EzAuth.php(236): PHPMailer\PHPMailer\PHPMailer->send()
+#3 C:\xampp\htdocs\library2\app\ThirdParty\EzAuth.php(274): elmyrockers\EzAuth->_mail(Array, NULL)
+#4 C:\xampp\htdocs\library2\app\ThirdParty\EzAuth.php(310): elmyrockers\EzAuth->_sendMail(Array, 'email_verificat...', Array, NULL)
+#5 C:\xampp\htdocs\library2\app\Controllers\Auth.php(14): elmyrockers\EzAuth->register('', true, 'localhost:8080/...')
+#6 C:\xampp\htdocs\library2\system\CodeIgniter.php(825): App\Controllers\Auth->register()
+#7 C:\xampp\htdocs\library2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\library2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\library2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\library2\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-07-23 02:41:06 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 02:41:24 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 03:28:29 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 03:29:37 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 03:29:54 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 03:31:30 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 05:43:40 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 05:43:49 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 05:45:06 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 05:46:22 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 06:04:30 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 06:04:53 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 06:05:35 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 06:06:54 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 06:21:31 --> syntax error, unexpected token "exit"
+#0 C:\xampp\htdocs\library2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('student/dashboa...')
+#1 C:\xampp\htdocs\library2\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('student/dashboa...')
+#2 C:\xampp\htdocs\library2\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\library2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\library2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\library2\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-07-23 06:22:13 --> syntax error, unexpected token "exit"
+#0 C:\xampp\htdocs\library2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('student/dashboa...')
+#1 C:\xampp\htdocs\library2\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('student/dashboa...')
+#2 C:\xampp\htdocs\library2\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\library2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\library2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\library2\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-07-23 06:22:16 --> syntax error, unexpected token "exit"
+#0 C:\xampp\htdocs\library2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('student/dashboa...')
+#1 C:\xampp\htdocs\library2\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('student/dashboa...')
+#2 C:\xampp\htdocs\library2\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\library2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\library2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\library2\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-07-23 06:22:36 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 06:37:49 --> syntax error, unexpected token "exit"
+#0 C:\xampp\htdocs\library2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('student/dashboa...')
+#1 C:\xampp\htdocs\library2\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('student/dashboa...')
+#2 C:\xampp\htdocs\library2\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\library2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\library2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\library2\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-07-23 06:41:20 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 06:41:59 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 06:50:13 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 06:50:15 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 06:50:41 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 06:53:16 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 06:53:17 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 06:53:17 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 06:53:18 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 06:53:18 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 06:53:30 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in C:\xampp\htdocs\library2\system\Debug\Exceptions.php:298
+Stack trace:
+#0 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(298): abs('42S02')
+#1 C:\xampp\htdocs\library2\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(PDOException))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(PDOException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-23 07:09:01 --> syntax error, unexpected token "="
+#0 C:\xampp\htdocs\library2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('student/dashboa...')
+#1 C:\xampp\htdocs\library2\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('student/dashboa...')
+#2 C:\xampp\htdocs\library2\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\library2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\library2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\library2\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-07-23 07:22:42 --> Undefined array key "availableBooks"
+#0 C:\xampp\htdocs\library2\app\ThirdParty\Smarty\Compiles\e4f85198bc175db05f0162b0813a382e8b109424_0.file.dashboard.tpl.php(250): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 250)
+#1 C:\xampp\htdocs\library2\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_runtime_inheritance.php(248): Block_174426266262dba612bd21f9_19241554->callBlock(Object(Smarty_Internal_Template))
+#2 C:\xampp\htdocs\library2\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_runtime_inheritance.php(184): Smarty_Internal_Runtime_Inheritance->callBlock(Object(Block_174426266262dba612bd21f9_19241554), Object(Smarty_Internal_Template))
+#3 C:\xampp\htdocs\library2\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_runtime_inheritance.php(186): Smarty_Internal_Runtime_Inheritance->process(Object(Smarty_Internal_Template), Object(Block_174426266262dba612bd21f9_19241554), Object(Block_56872998462dba3d0cd50e8_44129945))
+#4 C:\xampp\htdocs\library2\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_runtime_inheritance.php(156): Smarty_Internal_Runtime_Inheritance->process(Object(Smarty_Internal_Template), Object(Block_56872998462dba3d0cd50e8_44129945))
+#5 C:\xampp\htdocs\library2\app\ThirdParty\Smarty\Compiles\981a60f52213cb6aebc19c548f06fb55ec409c78_0.file.member_area.tpl.php(85): Smarty_Internal_Runtime_Inheritance->instanceBlock(Object(Smarty_Internal_Template), 'Block_568729984...', 'body')
+#6 C:\xampp\htdocs\library2\app\ThirdParty\Smarty\libs\sysplugins\smarty_template_resource_base.php(123): content_62dba3d0cd5e54_77738938(Object(Smarty_Internal_Template))
+#7 C:\xampp\htdocs\library2\app\ThirdParty\Smarty\libs\sysplugins\smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#8 C:\xampp\htdocs\library2\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#9 C:\xampp\htdocs\library2\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_template.php(385): Smarty_Internal_Template->render()
+#10 C:\xampp\htdocs\library2\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_runtime_inheritance.php(116): Smarty_Internal_Template->_subTemplateRender('Layouts/member_...', NULL, NULL, 0, 3600, Array, 2, false, NULL, NULL)
+#11 C:\xampp\htdocs\library2\app\ThirdParty\Smarty\Compiles\e4f85198bc175db05f0162b0813a382e8b109424_0.file.dashboard.tpl.php(32): Smarty_Internal_Runtime_Inheritance->endChild(Object(Smarty_Internal_Template), 'Layouts/member_...')
+#12 C:\xampp\htdocs\library2\app\ThirdParty\Smarty\libs\sysplugins\smarty_template_resource_base.php(123): content_62dba612bda327_84784074(Object(Smarty_Internal_Template))
+#13 C:\xampp\htdocs\library2\app\ThirdParty\Smarty\libs\sysplugins\smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#14 C:\xampp\htdocs\library2\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#15 C:\xampp\htdocs\library2\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(238): Smarty_Internal_Template->render(false, 1)
+#16 C:\xampp\htdocs\library2\app\ThirdParty\Smarty\libs\sysplugins\smarty_internal_templatebase.php(134): Smarty_Internal_TemplateBase->_execute(Object(Smarty_Internal_Template), NULL, NULL, NULL, 1)
+#17 C:\xampp\htdocs\library2\app\Libraries\TPL.php(40): Smarty_Internal_TemplateBase->display('Student/dashboa...', NULL, NULL, NULL)
+#18 C:\xampp\htdocs\library2\app\Libraries\TPL.php(55): App\Libraries\TPL->display('Student/dashboa...')
+#19 C:\xampp\htdocs\library2\system\CodeIgniter.php(320): App\Libraries\TPL->__destruct()
+#20 C:\xampp\htdocs\library2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#21 C:\xampp\htdocs\library2\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#22 {main}
